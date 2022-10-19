@@ -27,7 +27,7 @@
    foaf:knows <https://ctorresg.cl/foaf.ttl> , <http://bt21.fandom.com/wiki/SHOOKY> ;
    foaf:interest dbr:Semantic_Web , dbr:Big_data  , dbr:Travel, dbr:Cooking, dbr:Eating; 
    social:hasBestFriend <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   social:hasEnemy ; #<http://bt21.fandom.com/wiki/DJ> crear el IRI de DJ
+   social:hasEnemy <anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl>; #<http://bt21.fandom.com/wiki/DJ> crear el IRI de DJ
    social:likesMovie dbr:Sharknado , dbr:The_Emperor's_New_Groove , dbr:The_Emperor's_New_School ;
    social:hasSpiritAnimal dbr:Persian_cat ;
    social:hasFavouriteFood dbr:Pasta ;
