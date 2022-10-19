@@ -12,8 +12,8 @@
 <> a foaf:Document ;
    dc:date "2022-10-19"^^xsd:date ;
    dc:title "RJ's FOAF Profile"@en ;
-   foaf:primaryTopic <#ah> ;
-   dc:creator <#ah> .
+   foaf:primaryTopic <#rj> ;
+   dc:creator <#rj> .
 
 <#ah> a foaf:Person ;
    rdfs:label "RJ" ;
