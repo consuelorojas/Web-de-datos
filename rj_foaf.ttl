@@ -21,7 +21,7 @@
    foaf:name "RJ" ;
    foaf:givenName "RJ" ;
    foaf:familyName "No family" ;
-   foaf:birthdate  26-09-2017 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
+   foaf:birth  "2017-09-26"^^xsd:date ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <http://static.wikia.nocookie.net/bt21/images/d/de/RJ_Artwork.png/revision/latest?cb=20200630022158> ;
    foaf:gif <http://www.bt21.com/img/character/bt21/rj.gif> ;
    foaf:knows <https://ctorresg.cl/foaf.ttl> , <http://bt21.fandom.com/wiki/SHOOKY> ;
