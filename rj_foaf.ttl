@@ -31,5 +31,5 @@
    social:likesMovie dbr:Sharknado , dbr:The_Emperor's_New_Groove , dbr:The_Emperor's_New_School ;
    social:hasSpiritAnimal dbr:Persian_cat ;
    social:hasFavouriteFood dbr:Pasta ;
-   foaf:band "Universe Star"@en
+   foaf:band "Universe Star"@en ;
    foaf:myersBriggs "INFP" .
