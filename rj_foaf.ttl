@@ -1,5 +1,5 @@
-@base <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> . #cambiarlo a github raw cuando se suba.
-@prefix rj: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> . #al publicar cambiar por la base tmbn
+@base <https://raw.githubusercontent.com/consuelorojas/Web-de-datos/main/rj_foaf.ttl?> . #cambiarlo a github raw cuando se suba.
+@prefix rj: <https://raw.githubusercontent.com/consuelorojas/Web-de-datos/main/rj_foaf.ttl?#> . #al publicar cambiar por la base tmbn
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
