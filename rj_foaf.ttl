@@ -15,7 +15,7 @@
    foaf:primaryTopic <#rj> ;
    dc:creator <#rj> .
 
-<#ah> a foaf:Person ;
+<#ah> a foaf:Alpaca ;
    rdfs:label "RJ" ;
    rdfs:comment "World Traveler"@en , "Alpaca"@en ;
    foaf:name "RJ" ;
