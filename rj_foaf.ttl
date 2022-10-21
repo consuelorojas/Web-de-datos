@@ -32,4 +32,5 @@
    social:hasSpiritAnimal dbr:Persian_cat ;
    social:hasFavouriteFood dbr:Pasta ;
    foaf:band "Universe Star"@en ;
+   foaf:hasFavouritePlatonicSolid dbr:Icosahedron;
    foaf:myersBriggs "INFP" .
