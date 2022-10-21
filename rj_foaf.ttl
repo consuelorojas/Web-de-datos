@@ -24,10 +24,10 @@
    foaf:birth  "2017-09-26"^^xsd:date ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <http://static.wikia.nocookie.net/bt21/images/d/de/RJ_Artwork.png/revision/latest?cb=20200630022158> ;
    foaf:gif <http://www.bt21.com/img/character/bt21/rj.gif> ;
-   foaf:knows <https://ctorresg.cl/foaf.ttl> , <http://bt21.fandom.com/wiki/SHOOKY> ;
+   foaf:knows <https://ctorresg.cl/foaf.ttl> , <https://raw.githubusercontent.com/Litr0/Lab9WebDeDatos/main/foafb.ttl> ;
    foaf:interest dbr:Semantic_Web , dbr:BTS  , dbr:Travel, dbr:Cooking, dbr:Eating; 
    social:hasBestFriend <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   social:hasEnemy <anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl>; #<http://bt21.fandom.com/wiki/DJ> crear el IRI de DJ
+   social:hasEnemy <http://anakena.dcc.uchile.cl/~pberrios/Watos/foaf.ttl>; #<http://bt21.fandom.com/wiki/DJ> crear el IRI de DJ
    social:likesMovie dbr:Alpacalypse , <https://dbpedia.org/page/The_Emperor's_New_Groove>, <https://dbpedia.org/page/The_Emperor's_New_School>;
    social:hasSpiritAnimal dbr:Persian_cat ;
    social:hasFavouriteFood dbr:Pasta ;
